@@ -509,4 +509,37 @@ class KurdishMaterialLocalizations extends GlobalMaterialLocalizations {
 
   @override
   String get scrimOnTapHintRaw => 'Tap here to dismiss.';
+    
+  @override
+  String get collapsedHint => 'collapsedHint';
+
+  @override
+  String get expandedHint => 'expandedHint';
+
+  @override
+  String get expansionTileCollapsedHint => 'expansionTileCollapsedHint';
+
+  @override
+  String get expansionTileCollapsedTapHint => 'expansionTileCollapsedTapHint';
+
+  @override
+  String get expansionTileExpandedHint => 'expansionTileExpandedHint';
+
+  @override
+  String get expansionTileExpandedTapHint => 'expansionTileExpandedTapHint';
+
+  @override
+  String get scanTextButtonLabel => '.';
+  
+  
+  String get lookUpButtonLabel => '.';
+  
+  
+  String get menuDismissLabel => '.';
+  
+  
+  String get searchWebButtonLabel => '.';
+  
+  
+  String get shareButtonLabel => '.';
 }
