@@ -200,6 +200,18 @@ class KurdishCupertinoLocalizations extends GlobalCupertinoLocalizations {
 
   @override
   String get noSpellCheckReplacementsLabel => 'هیچ نەدۆزرایەوە';
+
+  @override
+  String get lookUpButtonLabel => '';
+
+  @override
+  String get menuDismissLabel => '';
+
+  @override
+  String get searchWebButtonLabel => '';
+
+  @override
+  String get shareButtonLabel => '';
 }
 
 const kuDateSymbols = {
