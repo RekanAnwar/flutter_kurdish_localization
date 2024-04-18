@@ -212,6 +212,9 @@ class KurdishCupertinoLocalizations extends GlobalCupertinoLocalizations {
 
   @override
   String get shareButtonLabel => '';
+
+  @override
+  String get clearButtonLabel => '';
 }
 
 const kuDateSymbols = {
